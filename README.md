@@ -116,7 +116,7 @@ The dataset contains:
 # Data Visualizations
 
 ## Subscription Plan Analysis
-![Subscription Plan](screenshots/01_subscription_plan_usage.png)
+![Subscription Plan](./screenshots/01_subscription_plan_usage.png)
 
 ---
 
