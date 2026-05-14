@@ -116,50 +116,50 @@ The dataset contains:
 # Data Visualizations
 
 ## Subscription Plan Analysis
-![Subscription Plan](screenshots/01_subscription_plan_usage.png)
+![Subscription Plan](./screenshots/01_subscription_plan_usage.png)
 
 ---
 
 ## Region-wise Usage Analysis
-![Region Analysis](screenshots/02_region_usage_analysis.png)
+![Region Analysis](./screenshots/02_region_usage_analysis.png)
 
 ---
 
 ## Retention Distribution
-![Retention Distribution](screenshots/03_retention_distribution.png)
+![Retention Distribution](./screenshots/03_retention_distribution.png)
 
 ---
 
 ## Top Active Users
-![Top Users](screenshots/04_top_active_users.png)
+![Top Users](./screenshots/04_top_active_users.png)
 
 ---
 
 ## Churn Risk Analysis
-![Churn Analysis](screenshots/05_churn_risk_analysis.png)
+![Churn Analysis](./screenshots/05_churn_risk_analysis.png)
 
 ---
 
 ## Login Count vs Usage Hours
-![Correlation](screenshots/06_login_vs_usage_correlation.png)
+![Correlation](./screenshots/06_login_vs_usage_correlation.png)
 
 ---
 
 # Machine Learning Output
 
-![ML Output](screenshots/07_ml_prediction_output.png)
+![ML Output](./screenshots/07_ml_prediction_output.png)
 
 ---
 
 # KPI Metrics Output
 
-![KPI Metrics](screenshots/08_kpi_metrics.png)
+![KPI Metrics](./screenshots/08_kpi_metrics.png)
 
 ---
 
 # Final Business Insights
 
-![Business Insights](screenshots/09_business_insights.png)
+![Business Insights](./screenshots/09_business_insights.png)
 
 ---
 
